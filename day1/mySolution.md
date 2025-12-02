@@ -1,4 +1,5 @@
 ### Day-1
+- problem - https://adventofcode.com/2025/day/1
 - The dial starts with 50 as default.
 - then what we can do is have a value counter `zero_counter` which tracks the total number of times the dial is at zero 
 ---
@@ -20,3 +21,4 @@
 
 ![class](<Screenshot 2025-12-02 at 11.33.36 AM.png>)
 ---
+
